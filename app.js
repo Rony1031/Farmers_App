@@ -77,7 +77,7 @@ mongoose.connect("mongodb+srv://andekishore:Kishore-1506@cluster0.szmohag.mongod
 });*/
 //originaldbbbbb
 
-mongoose.connect("mongodb+srv://kishore:1234@cluster0.w7w19gv.mongodb.net/farmersupdatedDB",{
+mongoose.connect("mongodb+srv://20je0804:20je0804@cluster0.l0aj5to.mongodb.net/farmersdata",{
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(function(){
